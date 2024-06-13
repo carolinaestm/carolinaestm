@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolinaestm
 - 👀 I’m interested in software engineering and machine learning
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Contact me @ https://www.linkedin.com/in/carolinaestm or realestrada08165@icloud.com
 - 😄 Pronouns: she/her
