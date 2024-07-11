@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carolinaestm
-- 👀 I’m interested in software engineering and machine learning
+- 👀 I’m interested in web development, artificial intelligence, and cloud computing
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on any projects
 - 📫 Contact me @ https://www.linkedin.com/in/carolinaestm or realestrada08165@icloud.com
